@@ -1,0 +1,45 @@
+name: Spotify Playlist Guardian
+
+on:
+  schedule:
+    # Run twice a day at 08:15 and 20:15 UTC
+    - cron: "15 8,20 * * *"
+  workflow_dispatch: # Allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  check-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check Spotify playlist
+        id: guardian
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          SPOTIFY_PLAYLIST_ID: ${{ secrets.SPOTIFY_PLAYLIST_ID }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python guardian.py
+
+      - name: Commit and push updated snapshot
+        if: steps.guardian.outputs.changed == 'true'
+        env:
+          COMMIT_MSG: ${{ steps.guardian.outputs.commit_msg }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || (git commit -m "$COMMIT_MSG" && git push)
