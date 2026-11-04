@@ -1,8 +1,8 @@
 # Playlist Snapshot
 
-> Last synced: `2026-11-04 00:34 UTC`
+> Last synced: `2026-11-04 16:14 UTC`
 
-## sxdcrt (221 tracks)
+## sxdcrt (222 tracks)
 
 | # | Artist | Track | Album | Link |
 |---:|---|---|---|---|
@@ -227,3 +227,4 @@
 | 219 | Pulp | Sorted For E's & Wizz | Different Class | [Spotify](https://open.spotify.com/track/6OiWR0dBoVnd0NpD0kCijF) |
 | 220 | Car Seat Headrest | Unforgiving Girl (She's Not An) | Teens Of Denial | [Spotify](https://open.spotify.com/track/1bNFcAne3QoFy6Yf5wddf9) |
 | 221 | Car Seat Headrest | Fill In The Blank | Teens Of Denial | [Spotify](https://open.spotify.com/track/0SVvyfRMFMRJzc0L2odX20) |
+| 222 | Car Seat Headrest | Equals | The Scholars | [Spotify](https://open.spotify.com/track/74nPzST89hVhtZMJ0UNJeW) |
