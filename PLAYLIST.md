@@ -1,8 +1,8 @@
 # Playlist Snapshot
 
-> Last synced: `2026-11-04 16:14 UTC`
+> Last synced: `2026-11-06 00:57 UTC`
 
-## sxdcrt (222 tracks)
+## sxdcrt (223 tracks)
 
 | # | Artist | Track | Album | Link |
 |---:|---|---|---|---|
@@ -228,3 +228,4 @@
 | 220 | Car Seat Headrest | Unforgiving Girl (She's Not An) | Teens Of Denial | [Spotify](https://open.spotify.com/track/1bNFcAne3QoFy6Yf5wddf9) |
 | 221 | Car Seat Headrest | Fill In The Blank | Teens Of Denial | [Spotify](https://open.spotify.com/track/0SVvyfRMFMRJzc0L2odX20) |
 | 222 | Car Seat Headrest | Equals | The Scholars | [Spotify](https://open.spotify.com/track/74nPzST89hVhtZMJ0UNJeW) |
+| 223 | Car Seat Headrest | Oh! Starving | Teens of Style | [Spotify](https://open.spotify.com/track/1wkVU53qCZS2EfDdB15w1c) |
