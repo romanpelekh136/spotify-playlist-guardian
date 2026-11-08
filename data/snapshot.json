@@ -2232,6 +2232,26 @@
           "album": "Teens of Style",
           "added_at": "2026-11-05T16:56:24Z",
           "url": "https://open.spotify.com/track/1wkVU53qCZS2EfDdB15w1c"
+        },
+        {
+          "key": "1g9GiiPPaL7KcDHlDzu7lT",
+          "id": "1g9GiiPPaL7KcDHlDzu7lT",
+          "uri": "spotify:track:1g9GiiPPaL7KcDHlDzu7lT",
+          "name": "Au Pays du Cocaine",
+          "artists": "Geese",
+          "album": "Getting Killed",
+          "added_at": "2026-11-08T00:16:06Z",
+          "url": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT"
+        },
+        {
+          "key": "73CKjW3vsUXRpy3NnX4H7F",
+          "id": "73CKjW3vsUXRpy3NnX4H7F",
+          "uri": "spotify:track:73CKjW3vsUXRpy3NnX4H7F",
+          "name": "Fake Plastic Trees",
+          "artists": "Radiohead",
+          "album": "The Bends",
+          "added_at": "2026-11-08T00:37:12Z",
+          "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
         }
       ]
     }

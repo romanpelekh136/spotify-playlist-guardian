@@ -1,8 +1,8 @@
 # Playlist Snapshot
 
-> Last synced: `2026-11-06 00:57 UTC`
+> Last synced: `2026-11-08 15:07 UTC`
 
-## sxdcrt (223 tracks)
+## sxdcrt (225 tracks)
 
 | # | Artist | Track | Album | Link |
 |---:|---|---|---|---|
@@ -229,3 +229,5 @@
 | 221 | Car Seat Headrest | Fill In The Blank | Teens Of Denial | [Spotify](https://open.spotify.com/track/0SVvyfRMFMRJzc0L2odX20) |
 | 222 | Car Seat Headrest | Equals | The Scholars | [Spotify](https://open.spotify.com/track/74nPzST89hVhtZMJ0UNJeW) |
 | 223 | Car Seat Headrest | Oh! Starving | Teens of Style | [Spotify](https://open.spotify.com/track/1wkVU53qCZS2EfDdB15w1c) |
+| 224 | Geese | Au Pays du Cocaine | Getting Killed | [Spotify](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) |
+| 225 | Radiohead | Fake Plastic Trees | The Bends | [Spotify](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) |
