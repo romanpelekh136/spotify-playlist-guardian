@@ -1,8 +1,8 @@
 # Playlist Snapshot
 
-> Last synced: `2026-11-08 15:07 UTC`
+> Last synced: `2026-11-09 18:43 UTC`
 
-## sxdcrt (225 tracks)
+## sxdcrt (226 tracks)
 
 | # | Artist | Track | Album | Link |
 |---:|---|---|---|---|
@@ -231,3 +231,4 @@
 | 223 | Car Seat Headrest | Oh! Starving | Teens of Style | [Spotify](https://open.spotify.com/track/1wkVU53qCZS2EfDdB15w1c) |
 | 224 | Geese | Au Pays du Cocaine | Getting Killed | [Spotify](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) |
 | 225 | Radiohead | Fake Plastic Trees | The Bends | [Spotify](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) |
+| 226 | The Beatles | Octopus's Garden - Remastered 2009 | Abbey Road (Remastered 2009) | [Spotify](https://open.spotify.com/track/0suLngfo7rJoetk7Ub6N8l) |
