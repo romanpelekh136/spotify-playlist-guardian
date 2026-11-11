@@ -1,8 +1,8 @@
 # Playlist Snapshot
 
-> Last synced: `2026-11-09 18:43 UTC`
+> Last synced: `2026-11-11 00:38 UTC`
 
-## sxdcrt (226 tracks)
+## sxdcrt (228 tracks)
 
 | # | Artist | Track | Album | Link |
 |---:|---|---|---|---|
@@ -232,3 +232,5 @@
 | 224 | Geese | Au Pays du Cocaine | Getting Killed | [Spotify](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) |
 | 225 | Radiohead | Fake Plastic Trees | The Bends | [Spotify](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) |
 | 226 | The Beatles | Octopus's Garden - Remastered 2009 | Abbey Road (Remastered 2009) | [Spotify](https://open.spotify.com/track/0suLngfo7rJoetk7Ub6N8l) |
+| 227 | Blur | Bang - 2012 Remaster | Leisure (Special Edition) | [Spotify](https://open.spotify.com/track/77UAB5hIOFj1yx2CIvIkdZ) |
+| 228 | Weezer | Undone - The Sweater Song | Weezer | [Spotify](https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV) |
