@@ -1,8 +1,8 @@
 # Playlist Snapshot
 
-> Last synced: `2026-11-11 16:06 UTC`
+> Last synced: `2026-11-14 23:52 UTC`
 
-## sxdcrt (229 tracks)
+## sxdcrt (230 tracks)
 
 | # | Artist | Track | Album | Link |
 |---:|---|---|---|---|
@@ -235,3 +235,4 @@
 | 227 | Blur | Bang - 2012 Remaster | Leisure (Special Edition) | [Spotify](https://open.spotify.com/track/77UAB5hIOFj1yx2CIvIkdZ) |
 | 228 | Weezer | Undone - The Sweater Song | Weezer | [Spotify](https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV) |
 | 229 | Pulp | Help The Aged | This Is Hardcore (Deluxe Edition) | [Spotify](https://open.spotify.com/track/2KmI1IcNSOhfUzLD357i3Z) |
+| 230 | Nirvana | Breed | Nevermind (Remastered) | [Spotify](https://open.spotify.com/track/3PyPpABRA2bTGhNwPd66H6) |
