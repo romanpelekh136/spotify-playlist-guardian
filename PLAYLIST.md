@@ -1,8 +1,8 @@
 # Playlist Snapshot
 
-> Last synced: `2026-11-14 23:52 UTC`
+> Last synced: `2026-11-19 17:19 UTC`
 
-## sxdcrt (230 tracks)
+## sxdcrt (229 tracks)
 
 | # | Artist | Track | Album | Link |
 |---:|---|---|---|---|
@@ -46,7 +46,7 @@
 | 38 | The Strokes | Hard To Explain | Is This It | [Spotify](https://open.spotify.com/track/2LMloFiV7DHpBhITOaBSam) |
 | 39 | Azumi Takahashi, Lotus Juice, アトラスサウンドチーム, ATLUS GAME MUSIC | It's Going Down Now | Persona 3 Reload Original Soundtrack | [Spotify](https://open.spotify.com/track/3w8v6xU26DY0LiQr3QAFjl) |
 | 40 | The Strokes | 12:51 | Room On Fire | [Spotify](https://open.spotify.com/track/6Yu1OL8I0D4vjOzYdsXYGK) |
-| 41 | The Smashing Pumpkins | The Boy | Aeroplane Flies High (Deluxe Edition) | [Spotify](https://open.spotify.com/track/2Yw5jfEaQFHoUFhzXUGkgV) |
+| 41 | The Smashing Pumpkins | The Boy | The Aeroplane Flies High (Deluxe Edition) | [Spotify](https://open.spotify.com/track/2Yw5jfEaQFHoUFhzXUGkgV) |
 | 42 | Mindless Self Indulgence | Shut Me Up | You'll Rebel To Anything | [Spotify](https://open.spotify.com/track/7AH9Fmka4of4Y25lfhvBUC) |
 | 43 | alexgoffline | east coast | east coast | [Spotify](https://open.spotify.com/track/3PfP2ESY88v8ElWGkAIcz4) |
 | 44 | The Strokes | Last Nite | Is This It | [Spotify](https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA) |
@@ -71,168 +71,167 @@
 | 63 | Weezer | I Just Threw Out The Love Of My Dreams | Pinkerton - Deluxe Edition | [Spotify](https://open.spotify.com/track/35SRuRfp5BvD1yArmXKNHO) |
 | 64 | The Strokes | Selfless | The New Abnormal | [Spotify](https://open.spotify.com/track/2t0wwvR15fc3K1ey8OiOaN) |
 | 65 | The Strokes, Regina Spektor | Modern Girls & Old Fashion Men - Reptilia B-Side | The Singles - Volume 01 | [Spotify](https://open.spotify.com/track/5hNW46qZA7BcZ2qf6lbhNm) |
-| 66 | Lucio Corsi | Volevo essere un duro | Volevo essere un duro | [Spotify](https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8) |
-| 67 | alexgoffline | not anywhere | not anywhere | [Spotify](https://open.spotify.com/track/7Kxir3VuFzvFDDsrUXuISf) |
-| 68 | Blur | Beetlebum - 2012 Remaster | Blur (Special Edition) | [Spotify](https://open.spotify.com/track/4OHVCeQYPncEwZOtNAJZZx) |
-| 69 | NAPA | Deslocado | Deslocado | [Spotify](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) |
-| 70 | Arctic Monkeys | No. 1 Party Anthem | AM | [Spotify](https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S) |
-| 71 | wifiskeleton | bipolar | pony | [Spotify](https://open.spotify.com/track/4R4tfhmLBLzBQNmsvxArKZ) |
-| 72 | VovaZiLvova | Атата - Ренебе | Прекрасне інакше | [Spotify](https://open.spotify.com/track/0fqp87BpzFd10BIDLP0qVv) |
-| 73 | The Living Tombstone | My Ordinary Life | My Ordinary Life | [Spotify](https://open.spotify.com/track/3FdopY118eIYv5COjji7Sa) |
-| 74 | Red Hot Chili Peppers | Can't Stop | By the Way (Deluxe Edition) | [Spotify](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) |
-| 75 | The Strokes | What Ever Happened? | Room On Fire | [Spotify](https://open.spotify.com/track/78Gzxi27GuNHTfkn2BylG4) |
-| 76 | Blur | Girls & Boys | Blur: The Best Of | [Spotify](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) |
-| 77 | Blur | Country House - 2012 Remaster | The Great Escape (Special Edition) | [Spotify](https://open.spotify.com/track/6L4fEE9awoUnSEy1bmQebb) |
-| 78 | The Strokes | Brooklyn Bridge To Chorus | The New Abnormal | [Spotify](https://open.spotify.com/track/2mDYYGaGd9uXKkK2YhDA3i) |
-| 79 | Weezer | Say It Ain't So - Original Mix | Weezer | [Spotify](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) |
-| 80 | 125 Rue Montmartre | Hit #2 | Discography | [Spotify](https://open.spotify.com/track/4eXpNnNOexUoA89KpWSpU3) |
-| 81 | Weezer | Island In The Sun | Weezer | [Spotify](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) |
-| 82 | Billy Joel | Uptown Girl | An Innocent Man | [Spotify](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) |
-| 83 | Billy Talent | Surrender | Billy Talent II | [Spotify](https://open.spotify.com/track/1DeaByFASTvBxtYANOyFXy) |
-| 84 | The Strokes | Barely Legal | Is This It | [Spotify](https://open.spotify.com/track/4KC2Z9dL4jL61Ys35N6srg) |
-| 85 | The Strokes | I Can't Win | Room On Fire | [Spotify](https://open.spotify.com/track/7eX5SypK35V8Y9d9pS6rWy) |
-| 86 | The Strokes | Ode To The Mets | The New Abnormal | [Spotify](https://open.spotify.com/track/1BLOVHYYlH4JUHQGcpt75R) |
-| 87 | The Strokes | New York City Cops | Hard To Explain/New York City Cops | [Spotify](https://open.spotify.com/track/5g4cz7u4MrUTKDdo1TmABo) |
-| 88 | TV Girl | The Blonde | French Exit | [Spotify](https://open.spotify.com/track/72cGBEqu7RitIOoACXYjfR) |
-| 89 | Geordie Greep | Holy, Holy | Holy, Holy | [Spotify](https://open.spotify.com/track/4Nk10X45JIH1xrIWOCbA3I) |
-| 90 | The Strokes | Soma | Is This It | [Spotify](https://open.spotify.com/track/7G8hUONVhvJnkD3Ak8mNF1) |
-| 91 | The Smashing Pumpkins | Perfect | Adore (Super Deluxe) | [Spotify](https://open.spotify.com/track/5DuaMIvmPyT3oEvuccx6JO) |
-| 92 | Blur | Charmless Man - 2012 Remaster | The Great Escape (Special Edition) | [Spotify](https://open.spotify.com/track/7lJ9MeQgqHlBrE69omD4rN) |
-| 93 | Pavement | Cut Your Hair | Crooked Rain, Crooked Rain | [Spotify](https://open.spotify.com/track/4tBl1xhBg5PETpBvFnQmGl) |
-| 94 | Mindless Self Indulgence | Lights Out | If | [Spotify](https://open.spotify.com/track/7L7AJb57lJH6YpnANgCDO6) |
-| 95 | Car Seat Headrest | It's Only Sex | Living While Starving | [Spotify](https://open.spotify.com/track/6dtPJwNdLuyVGPWyHOI6GP) |
-| 96 | Blur | Parklife - 2012 Remaster | Parklife (Special Edition) | [Spotify](https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c) |
-| 97 | Car Seat Headrest | Bodys | Twin Fantasy | [Spotify](https://open.spotify.com/track/1Pbs2eCcX9p2onaAvMYvhk) |
-| 98 | Blur | The Narcissist | The Ballad of Darren | [Spotify](https://open.spotify.com/track/2TNyNqT3RBXhtNV7OiAgiC) |
-| 99 | WurtS | どうかしてる | どうかしてる | [Spotify](https://open.spotify.com/track/1N7SNqZRZsQzwJNtq2lV6O) |
-| 100 | Mindless Self Indulgence | Never Wanted To Dance | If | [Spotify](https://open.spotify.com/track/1vOdNMCzhbdz2tMQJYsHJB) |
-| 101 | Arctic Monkeys | Crying Lightning | Humbug | [Spotify](https://open.spotify.com/track/6wVWJl64yoTzU27EI8ep20) |
-| 102 | Queen | Good Old-Fashioned Lover Boy - Remastered 2011 | A Day At The Races (Deluxe Edition 2011 Remaster) | [Spotify](https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw) |
-| 103 | Kenshi Yonezu | IRIS OUT | IRIS OUT | [Spotify](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) |
-| 104 | The Last Shadow Puppets, Alex Turner, Miles Kane | Calm Like You | The Age Of The Understatement | [Spotify](https://open.spotify.com/track/0b70nZ5kdm09VlyfHLNjlL) |
-| 105 | Neutral Milk Hotel | In the Aeroplane Over the Sea | In the Aeroplane Over the Sea | [Spotify](https://open.spotify.com/track/1NiAMp0CzUdG6e97VYRB1a) |
-| 106 | Mitski | I Bet on Losing Dogs | Puberty 2 | [Spotify](https://open.spotify.com/track/2Co0IjcLTSHMtodwD4gzfg) |
-| 107 | passengerprincess | 4K CARPET | 4K CARPET | [Spotify](https://open.spotify.com/track/284qRqsftKxNPWrejNEewL) |
-| 108 | Alex G | Sorry | DSU | [Spotify](https://open.spotify.com/track/77fJIM0FrS5KYX7XQ6Z3Nn) |
-| 109 | Blur | For Tomorrow - 2012 Remaster | Modern Life Is Rubbish | [Spotify](https://open.spotify.com/track/3UFAFyRvZ4gFORAoI1pFWQ) |
-| 110 | Weezer | Across The Sea | Pinkerton | [Spotify](https://open.spotify.com/track/7JJPh9eOiSr8zYlBjcu2w0) |
-| 111 | Car Seat Headrest | Something Soon | Teens of Style | [Spotify](https://open.spotify.com/track/1L2U62lhBK991jQJ1uecD5) |
-| 112 | Mitski | Francis Forever | Bury Me At Makeout Creek | [Spotify](https://open.spotify.com/track/5411TEB6tlzvuF5A4oyldr) |
-| 113 | Newgrounds Death Rugby | Who The Fuck Is Mark? | Pictures of Your Pets | [Spotify](https://open.spotify.com/track/0M9qiAsGfkVGIAyzKsTNMH) |
-| 114 | Enon | Natural Disasters | High Society | [Spotify](https://open.spotify.com/track/6F3TZeOG2uKDNDbUgoOE3S) |
-| 115 | Sidney Gish | Impostor Syndrome | No Dogs Allowed | [Spotify](https://open.spotify.com/track/3bpGAsjsCIMTz98E7injb2) |
-| 116 | Modern Baseball | Tears Over Beers | Sports | [Spotify](https://open.spotify.com/track/7hPLPHeKbwJrsuDHv4BCTA) |
-| 117 | Okean Elzy | Як ніколи | Той день | [Spotify](https://open.spotify.com/track/7Bz3CO5CyU4GAPke4UNPhc) |
-| 118 | passengerprincess | VENOMOUS | PASSENGERPRINCESS | [Spotify](https://open.spotify.com/track/4rPKifkzrhIYAsl1njwmjd) |
-| 119 | Уляна Дель Рей | 2007 | Третя | [Spotify](https://open.spotify.com/track/5H5HNG8BIjQ0EpV2l5xl2O) |
-| 120 | Blur | Stereotypes - 2012 Remaster | The Great Escape (Special Edition) | [Spotify](https://open.spotify.com/track/0RgeH2P2ujXoHSjD8DT2ss) |
-| 121 | Blur | It Could Be You - 2012 Remaster | The Great Escape (Special Edition) | [Spotify](https://open.spotify.com/track/5rRFwd9u7iU1DQ8HwPM7iQ) |
-| 122 | The Cranberries | Sunday | Everybody Else Is Doing It, So Why Can't We? | [Spotify](https://open.spotify.com/track/4zEvxRDaKDoFlHxK7Hy0wg) |
-| 123 | Modern Baseball | Re-Do | Sports | [Spotify](https://open.spotify.com/track/1fddQyaDzAQGhnSZh7UQIJ) |
-| 124 | Enon | Disposable Parts | High Society | [Spotify](https://open.spotify.com/track/0BBMnTW40A9Q2DkYHwsVin) |
-| 125 | Weezer | Pink Triangle | Pinkerton | [Spotify](https://open.spotify.com/track/6qQGxKyy6LcyZVsWn93lyS) |
-| 126 | Car Seat Headrest | Cute Thing | Twin Fantasy | [Spotify](https://open.spotify.com/track/7AppWYIm98qFOGVMbNHJSB) |
-| 127 | Radiohead | Just | The Bends | [Spotify](https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR) |
-| 128 | Lit | My Own Worst Enemy | A Place In The Sun | [Spotify](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) |
-| 129 | Robin Thicke, T.I., Pharrell Williams | Blurred Lines | Blurred Lines (Deluxe) | [Spotify](https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb) |
-| 130 | The Clash | Spanish Bombs - Remastered | London Calling (Remastered) | [Spotify](https://open.spotify.com/track/6wtmql7FJ7SSLuSw8JD8rX) |
-| 131 | Do Sliz | Але якщо ти... | Але якщо ти... | [Spotify](https://open.spotify.com/track/4ZaoUiWzr60mHanF6FNrlF) |
-| 132 | alex_g_offline | Break | 1234 | [Spotify](https://open.spotify.com/track/4Rsv5fRmgTH88RLp7xN5sz) |
-| 133 | Jackal Queenston | The Gambler | Slop | — |
-| 134 | The Offspring, Redman | Original Prankster | Conspiracy Of One | [Spotify](https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv) |
-| 135 | Blur | You're so Great - 2012 Remaster | Blur (Special Edition) | [Spotify](https://open.spotify.com/track/7x6FZTgWolJs8e2cHfeUbR) |
-| 136 | Billie Eilish | BIRDS OF A FEATHER | HIT ME HARD AND SOFT | [Spotify](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) |
-| 137 | Blur | Sunday Sunday - 2012 Remaster | Modern Life Is Rubbish | [Spotify](https://open.spotify.com/track/127M7vBbwxeCHO6AEQkMNx) |
-| 138 | Blur | The Universal - 2012 Remaster | The Great Escape (Special Edition) | [Spotify](https://open.spotify.com/track/63G27PTar9LZQgKU2BKjx9) |
-| 139 | 川村ゆみ, Lotus Juice | P3 fes | ペルソナ3フェス オリジナル・サウンドトラック | [Spotify](https://open.spotify.com/track/1L4s3u6PeAfnj0BIhQx1RH) |
-| 140 | Super Furry Animals | Something 4 the Weekend | Fuzzy Logic | [Spotify](https://open.spotify.com/track/77waSTIfZfnnrID2SRYp5J) |
-| 141 | Pulp | Disco 2000 | Different Class | [Spotify](https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC) |
-| 142 | Graham Coxon | Freakin' Out | Happiness In Magazines | [Spotify](https://open.spotify.com/track/4AhI7uKOHt0V7V9C4PJ0Pn) |
-| 143 | Weezer, Best Coast | Go Away | Everything Will Be Alright In The End | [Spotify](https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi) |
-| 144 | Weezer | Why Bother? | Pinkerton - Deluxe Edition | [Spotify](https://open.spotify.com/track/4W3uLgQTUl4fXAIdAvFRzK) |
-| 145 | Sabrina Carpenter | Manchild | Man’s Best Friend | [Spotify](https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9) |
-| 146 | Sabrina Carpenter | Juno | Short n' Sweet | [Spotify](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) |
-| 147 | Weezer | The World Has Turned And Left Me Here | Weezer | [Spotify](https://open.spotify.com/track/06isZAG9Bgm4jhPj7V0Rhx) |
-| 148 | Pulp | Common People - Full Length Version | Different Class | [Spotify](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) |
-| 149 | Sabrina Carpenter | Nobody’s Son | Man’s Best Friend | [Spotify](https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH) |
-| 150 | Pulp | Bar Italia | Different Class | [Spotify](https://open.spotify.com/track/3gP3IeMlNNb98geUB7SpPE) |
-| 151 | Mac DeMarco | No Other Heart | Another One | [Spotify](https://open.spotify.com/track/2aaCNg42RA74s0EmHTBqS7) |
-| 152 | Weezer | The Good Life | Pinkerton | [Spotify](https://open.spotify.com/track/5CjwXdq5Z73Va0XCPFG5Aq) |
-| 153 | TV Girl | Hate Yourself | French Exit | [Spotify](https://open.spotify.com/track/7ijyGfG4NxMBobHgvu4lIM) |
-| 154 | PinkPantheress, Zara Larsson | Stateside + Zara Larsson | Fancy Some More? | [Spotify](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) |
-| 155 | Blur | London Loves - 2012 Remaster | Parklife | [Spotify](https://open.spotify.com/track/78tsvl0m7A0F9UjEwv3POL) |
-| 156 | Blur | There's No Other Way - 2012 Remaster | Leisure (Special Edition) | [Spotify](https://open.spotify.com/track/7qk4uPeLpaKhp8lwas1sBb) |
-| 157 | Weezer | Falling For You | Pinkerton | [Spotify](https://open.spotify.com/track/1MnXNW03vkijBz0GHAsHgW) |
-| 158 | Blur | Best Days - 2012 Remaster | The Great Escape (Special Edition) | [Spotify](https://open.spotify.com/track/63Rsi8eMUSu3cF04rgVJLj) |
-| 159 | Sabrina Carpenter | Please Please Please | Short n' Sweet | [Spotify](https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj) |
-| 160 | Pulp | Mis-Shapes | Different Class | [Spotify](https://open.spotify.com/track/7IgHTB9VMPwziPobbBbgfq) |
-| 161 | The Smashing Pumpkins | Tonight, Tonight - Remastered 2012 | Mellon Collie And The Infinite Sadness (Deluxe Edition) | [Spotify](https://open.spotify.com/track/7bu0znpSbTks0O6I98ij0W) |
-| 162 | Pulp | Do You Remember The First Time? | Do You Remember The First Time? EP | [Spotify](https://open.spotify.com/track/6TXHo410Y1fubZ2QtXjNOB) |
-| 163 | Tartak, Світязь | Ні, я не ту кохав | Система нервів | [Spotify](https://open.spotify.com/track/6US12qFQkzA0OUr3um6v8E) |
-| 164 | Motor'Rolla | Не дзвонила, не заходила | …шо кому не ясно? | [Spotify](https://open.spotify.com/track/5OijSLJR5oj5xOJwLqNiXh) |
-| 165 | Sabrina Carpenter | Espresso | Short n' Sweet | [Spotify](https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz) |
-| 166 | Blur | Entertain Me - 2012 Remaster | The Great Escape (Special Edition) | [Spotify](https://open.spotify.com/track/33sv807ONsR1p9UGz1RMQX) |
-| 167 | Blur | Bank Holiday - 2012 Remaster | Parklife | [Spotify](https://open.spotify.com/track/6EU3L1HVLs1adpB3qBhcHS) |
-| 168 | Blur | Badhead - 2012 Remaster | Parklife | [Spotify](https://open.spotify.com/track/11rOwWuMAoucTDo6PQA9ny) |
-| 169 | Blur | On Your Own - 2012 Remaster | Blur (Special Edition) | [Spotify](https://open.spotify.com/track/1ALo4b1PtYjCZ4gX1QA2O6) |
-| 170 | Blur | Globe Alone - 2012 Remaster | The Great Escape (Special Edition) | [Spotify](https://open.spotify.com/track/52Zhh0JG06RgwMGiLOhl7T) |
-| 171 | Pulp | Lipgloss | His N Hers | [Spotify](https://open.spotify.com/track/1h9GNQ3aCkQyMAaM40a5xU) |
-| 172 | Blur | Look Inside America - 2012 Remaster | Blur | [Spotify](https://open.spotify.com/track/698kzeKjlJQkU7JxWtWa9X) |
-| 173 | The La's | There She Goes | The La's (Deluxe Edition) | [Spotify](https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0) |
-| 174 | Oasis | Supersonic - Remastered | Definitely Maybe (Deluxe Edition Remastered) | [Spotify](https://open.spotify.com/track/4jJfa4mO5JjV9Tz2aAxE2M) |
-| 175 | Oasis | Live Forever - Remastered | Definitely Maybe (Deluxe Edition Remastered) | [Spotify](https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW) |
-| 176 | Suede | Beautiful Ones | Coming Up - 20th Anniversary Edition (Audio Version) | [Spotify](https://open.spotify.com/track/5yWVfYEeQRPuFtytvkOgU1) |
-| 177 | PinkPantheress | Girl Like Me | Fancy That | [Spotify](https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB) |
-| 178 | Blur | Star Shaped - 2012 Remaster | Modern Life Is Rubbish | [Spotify](https://open.spotify.com/track/10eUvYOrxYT4nO31Sa5dYt) |
-| 179 | Blur | Colin Zeal - 2012 Remaster | Modern Life Is Rubbish | [Spotify](https://open.spotify.com/track/7dU0naThnlYiA3EaQlMFhg) |
-| 180 | Blur | To the End - 2012 Remaster | Parklife (Special Edition) | [Spotify](https://open.spotify.com/track/7u8yddev0YnNFGkZoP8X2t) |
-| 181 | Blur | Clover Over Dover - 2012 Remaster | Parklife (Special Edition) | [Spotify](https://open.spotify.com/track/6ErEhafrAEQArcTZgnRpTJ) |
-| 182 | Blur | Tracy Jacks - 2012 Remaster | Parklife (Special Edition) | [Spotify](https://open.spotify.com/track/6xjks1MbmXNPRewKoeyklJ) |
-| 183 | Blur | This Is a Low - 2012 Remaster | Parklife (Special Edition) | [Spotify](https://open.spotify.com/track/1Ce0LuCifEoGTnf9MbXQbo) |
-| 184 | UWANOSORA | Spin the Marvin | Night Fog | [Spotify](https://open.spotify.com/track/6vJKxqwvvft7LIBfLOh7in) |
-| 185 | ABBA | Waterloo | Waterloo | [Spotify](https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk) |
-| 186 | Blur | End of a Century - 2012 Remaster | Parklife | [Spotify](https://open.spotify.com/track/4em17FyyrOE8Miw8rJwJhn) |
-| 187 | Graham Coxon | Standing on My Own Again | Love Travels At Illegal Speeds | [Spotify](https://open.spotify.com/track/0lp59dehN94xfOWJGS2p74) |
-| 188 | Suede | Trash | Coming Up - 20th Anniversary Edition (Audio Version) | [Spotify](https://open.spotify.com/track/5sVPOuJJAmidyxU8LjJBVu) |
-| 189 | Pulp | Underwear | Different Class | [Spotify](https://open.spotify.com/track/5pcDlqgygjWQ75QYLM7mdL) |
-| 190 | Supergrass | I'd Like to Know - 2015 Remaster | I Should Coco (20th Anniversary Collector's Edition) | [Spotify](https://open.spotify.com/track/66w6LOh9fNPYmFgMjWXNrP) |
-| 191 | Supergrass | Caught by the Fuzz - 2015 Remaster | I Should Coco (20th Anniversary Collector's Edition) | [Spotify](https://open.spotify.com/track/3TtcfvXbYhS75XBOp33wST) |
-| 192 | Pulp | I'm A Man | This Is Hardcore (Deluxe Edition) | [Spotify](https://open.spotify.com/track/4emJOMwpD3ygw7GQ2KnzSc) |
-| 193 | Suede | Animal Nitrate | Suede (25th Anniversary Edition) | [Spotify](https://open.spotify.com/track/3Cf6hpnrWfhGA59IK4E8F8) |
-| 194 | Blur | Coffee & TV | 13 | [Spotify](https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw) |
-| 195 | ABBA | Dancing Queen | Arrival | [Spotify](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) |
-| 196 | Morrissey | First of the Gang to Die | You Are the Quarry | [Spotify](https://open.spotify.com/track/56rcBuVd1mpTeqP9cj3szc) |
-| 197 | Shed Seven | She Left Me On Friday | Let It Ride | [Spotify](https://open.spotify.com/track/5Yr6PtlymPSLry6Cjw6udV) |
-| 198 | Supergrass | Alright - 2015 Remaster | I Should Coco (20th Anniversary Collector's Edition) | [Spotify](https://open.spotify.com/track/05ajrG3EAcIe3j7NuqRV9B) |
-| 199 | Supergrass | Moving | Supergrass | [Spotify](https://open.spotify.com/track/5lkCsbgamJJF2APdUVf27A) |
-| 200 | Blur | Young and Lovely - 2012 Remaster | Modern Life Is Rubbish (Special Edition) | [Spotify](https://open.spotify.com/track/73pvCD951PVyLmU1obAJZi) |
-| 201 | Pulp | Monday Morning | Different Class | [Spotify](https://open.spotify.com/track/2nBPqKLFQUeBQhs03cKGU3) |
-| 202 | Pulp | Something Changed | Different Class | [Spotify](https://open.spotify.com/track/05FgZdqxXg40X0WG8MmWMA) |
-| 203 | Blur | Popscene - 2012 Remaster | Modern Life Is Rubbish (Special Edition) | [Spotify](https://open.spotify.com/track/3ZYYnEBVTsMutqF8zDF5Vw) |
-| 204 | Pulp | Razzmatazz | Hits | [Spotify](https://open.spotify.com/track/2FG2T9q4chMeIxmy7O7jyj) |
-| 205 | Mitski | Nobody | Be the Cowboy | [Spotify](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) |
-| 206 | passengerprincess | HEADLESS LOUNGE | HEADLESS LOUNGE | [Spotify](https://open.spotify.com/track/22mZmxadaPv3MmCT2xRGNq) |
-| 207 | Sixpence None The Richer | Kiss Me | Sixpence None the Richer: Greatest Hits | [Spotify](https://open.spotify.com/track/7IDezLEJkTbVchK7swLb5y) |
-| 208 | passengerprincess | AIRPLANE DRAGONS | AIRPLANE DRAGONS | [Spotify](https://open.spotify.com/track/7bN4ufQWjbzjn5VzZWHvRA) |
-| 209 | David Bowie | Space Oddity - 2015 Remaster | David Bowie (aka Space Oddity) [2015 Remaster] | [Spotify](https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG) |
-| 210 | Supergrass | Mansize Rooster - 2015 Remaster | I Should Coco (20th Anniversary Collector's Edition) | [Spotify](https://open.spotify.com/track/0kd2vjj5dGOjC7jQjRy5Cw) |
-| 211 | Sabrina Carpenter | Busy Woman | Short n' Sweet (Deluxe) | [Spotify](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) |
-| 212 | passengerprincess | EVERLASTING | EVERLASTING | [Spotify](https://open.spotify.com/track/0nmhfTCZXU2cBJR53b6QZm) |
-| 213 | Car Seat Headrest | Drunk Drivers/Killer Whales | Teens Of Denial | [Spotify](https://open.spotify.com/track/75hwtYcghca6YKW4i6C6fP) |
-| 214 | Car Seat Headrest | Beach Life-In-Death | Twin Fantasy | [Spotify](https://open.spotify.com/track/27aQH9DIJ3ozx3dC91Hhjg) |
-| 215 | Car Seat Headrest | 1937 State Park | Teens Of Denial | [Spotify](https://open.spotify.com/track/1R2S07B6YqebXf3SbDK0dR) |
-| 216 | Car Seat Headrest | Deadlines (Hostile) | Making a Door Less Open | [Spotify](https://open.spotify.com/track/0eyQSNrnZ7vKs1q0bQlN8O) |
-| 217 | Car Seat Headrest | The Drum | Teens of Style | [Spotify](https://open.spotify.com/track/4VPc1O6s4YnxTmdLRaApE9) |
-| 218 | The Cure | 10:15 Saturday Night | Boys Don't Cry | [Spotify](https://open.spotify.com/track/5QWmipHgzADlkGmLqJr3FY) |
-| 219 | Pulp | Sorted For E's & Wizz | Different Class | [Spotify](https://open.spotify.com/track/6OiWR0dBoVnd0NpD0kCijF) |
-| 220 | Car Seat Headrest | Unforgiving Girl (She's Not An) | Teens Of Denial | [Spotify](https://open.spotify.com/track/1bNFcAne3QoFy6Yf5wddf9) |
-| 221 | Car Seat Headrest | Fill In The Blank | Teens Of Denial | [Spotify](https://open.spotify.com/track/0SVvyfRMFMRJzc0L2odX20) |
-| 222 | Car Seat Headrest | Equals | The Scholars | [Spotify](https://open.spotify.com/track/74nPzST89hVhtZMJ0UNJeW) |
-| 223 | Car Seat Headrest | Oh! Starving | Teens of Style | [Spotify](https://open.spotify.com/track/1wkVU53qCZS2EfDdB15w1c) |
-| 224 | Geese | Au Pays du Cocaine | Getting Killed | [Spotify](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) |
-| 225 | Radiohead | Fake Plastic Trees | The Bends | [Spotify](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) |
-| 226 | The Beatles | Octopus's Garden - Remastered 2009 | Abbey Road (Remastered 2009) | [Spotify](https://open.spotify.com/track/0suLngfo7rJoetk7Ub6N8l) |
-| 227 | Blur | Bang - 2012 Remaster | Leisure (Special Edition) | [Spotify](https://open.spotify.com/track/77UAB5hIOFj1yx2CIvIkdZ) |
-| 228 | Weezer | Undone - The Sweater Song | Weezer | [Spotify](https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV) |
-| 229 | Pulp | Help The Aged | This Is Hardcore (Deluxe Edition) | [Spotify](https://open.spotify.com/track/2KmI1IcNSOhfUzLD357i3Z) |
-| 230 | Nirvana | Breed | Nevermind (Remastered) | [Spotify](https://open.spotify.com/track/3PyPpABRA2bTGhNwPd66H6) |
+| 66 | alexgoffline | not anywhere | not anywhere | [Spotify](https://open.spotify.com/track/7Kxir3VuFzvFDDsrUXuISf) |
+| 67 | Blur | Beetlebum - 2012 Remaster | Blur (Special Edition) | [Spotify](https://open.spotify.com/track/4OHVCeQYPncEwZOtNAJZZx) |
+| 68 | NAPA | Deslocado | Deslocado | [Spotify](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) |
+| 69 | Arctic Monkeys | No. 1 Party Anthem | AM | [Spotify](https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S) |
+| 70 | wifiskeleton | bipolar | pony | [Spotify](https://open.spotify.com/track/4R4tfhmLBLzBQNmsvxArKZ) |
+| 71 | VovaZiLvova | Атата - Ренебе | Прекрасне інакше | [Spotify](https://open.spotify.com/track/0fqp87BpzFd10BIDLP0qVv) |
+| 72 | The Living Tombstone | My Ordinary Life | My Ordinary Life | [Spotify](https://open.spotify.com/track/3FdopY118eIYv5COjji7Sa) |
+| 73 | Red Hot Chili Peppers | Can't Stop | By the Way (Deluxe Edition) | [Spotify](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) |
+| 74 | The Strokes | What Ever Happened? | Room On Fire | [Spotify](https://open.spotify.com/track/78Gzxi27GuNHTfkn2BylG4) |
+| 75 | Blur | Girls & Boys | Blur: The Best Of | [Spotify](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) |
+| 76 | Blur | Country House - 2012 Remaster | The Great Escape (Special Edition) | [Spotify](https://open.spotify.com/track/6L4fEE9awoUnSEy1bmQebb) |
+| 77 | The Strokes | Brooklyn Bridge To Chorus | The New Abnormal | [Spotify](https://open.spotify.com/track/2mDYYGaGd9uXKkK2YhDA3i) |
+| 78 | Weezer | Say It Ain't So - Original Mix | Weezer | [Spotify](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) |
+| 79 | 125 Rue Montmartre | Hit #2 | Discography | [Spotify](https://open.spotify.com/track/4eXpNnNOexUoA89KpWSpU3) |
+| 80 | Weezer | Island In The Sun | Weezer | [Spotify](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) |
+| 81 | Billy Joel | Uptown Girl | An Innocent Man | [Spotify](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) |
+| 82 | Billy Talent | Surrender | Billy Talent II | [Spotify](https://open.spotify.com/track/1DeaByFASTvBxtYANOyFXy) |
+| 83 | The Strokes | Barely Legal | Is This It | [Spotify](https://open.spotify.com/track/4KC2Z9dL4jL61Ys35N6srg) |
+| 84 | The Strokes | I Can't Win | Room On Fire | [Spotify](https://open.spotify.com/track/7eX5SypK35V8Y9d9pS6rWy) |
+| 85 | The Strokes | Ode To The Mets | The New Abnormal | [Spotify](https://open.spotify.com/track/1BLOVHYYlH4JUHQGcpt75R) |
+| 86 | The Strokes | New York City Cops | Hard To Explain/New York City Cops | [Spotify](https://open.spotify.com/track/5g4cz7u4MrUTKDdo1TmABo) |
+| 87 | TV Girl | The Blonde | French Exit | [Spotify](https://open.spotify.com/track/72cGBEqu7RitIOoACXYjfR) |
+| 88 | Geordie Greep | Holy, Holy | Holy, Holy | [Spotify](https://open.spotify.com/track/4Nk10X45JIH1xrIWOCbA3I) |
+| 89 | The Strokes | Soma | Is This It | [Spotify](https://open.spotify.com/track/7G8hUONVhvJnkD3Ak8mNF1) |
+| 90 | The Smashing Pumpkins | Perfect | Adore (Super Deluxe) | [Spotify](https://open.spotify.com/track/5DuaMIvmPyT3oEvuccx6JO) |
+| 91 | Blur | Charmless Man - 2012 Remaster | The Great Escape (Special Edition) | [Spotify](https://open.spotify.com/track/7lJ9MeQgqHlBrE69omD4rN) |
+| 92 | Pavement | Cut Your Hair | Crooked Rain, Crooked Rain | [Spotify](https://open.spotify.com/track/4tBl1xhBg5PETpBvFnQmGl) |
+| 93 | Mindless Self Indulgence | Lights Out | If | [Spotify](https://open.spotify.com/track/7L7AJb57lJH6YpnANgCDO6) |
+| 94 | Car Seat Headrest | It's Only Sex | Living While Starving | [Spotify](https://open.spotify.com/track/6dtPJwNdLuyVGPWyHOI6GP) |
+| 95 | Blur | Parklife - 2012 Remaster | Parklife (Special Edition) | [Spotify](https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c) |
+| 96 | Car Seat Headrest | Bodys | Twin Fantasy | [Spotify](https://open.spotify.com/track/1Pbs2eCcX9p2onaAvMYvhk) |
+| 97 | Blur | The Narcissist | The Ballad of Darren | [Spotify](https://open.spotify.com/track/2TNyNqT3RBXhtNV7OiAgiC) |
+| 98 | WurtS | どうかしてる | どうかしてる | [Spotify](https://open.spotify.com/track/1N7SNqZRZsQzwJNtq2lV6O) |
+| 99 | Mindless Self Indulgence | Never Wanted To Dance | If | [Spotify](https://open.spotify.com/track/1vOdNMCzhbdz2tMQJYsHJB) |
+| 100 | Arctic Monkeys | Crying Lightning | Humbug | [Spotify](https://open.spotify.com/track/6wVWJl64yoTzU27EI8ep20) |
+| 101 | Queen | Good Old-Fashioned Lover Boy - Remastered 2011 | A Day At The Races (Deluxe Edition 2011 Remaster) | [Spotify](https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw) |
+| 102 | Kenshi Yonezu | IRIS OUT | IRIS OUT | [Spotify](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) |
+| 103 | The Last Shadow Puppets, Alex Turner, Miles Kane | Calm Like You | The Age Of The Understatement | [Spotify](https://open.spotify.com/track/0b70nZ5kdm09VlyfHLNjlL) |
+| 104 | Neutral Milk Hotel | In the Aeroplane Over the Sea | In the Aeroplane Over the Sea | [Spotify](https://open.spotify.com/track/1NiAMp0CzUdG6e97VYRB1a) |
+| 105 | Mitski | I Bet on Losing Dogs | Puberty 2 | [Spotify](https://open.spotify.com/track/2Co0IjcLTSHMtodwD4gzfg) |
+| 106 | passengerprincess | 4K CARPET | 4K CARPET | [Spotify](https://open.spotify.com/track/284qRqsftKxNPWrejNEewL) |
+| 107 | Alex G | Sorry | DSU | [Spotify](https://open.spotify.com/track/77fJIM0FrS5KYX7XQ6Z3Nn) |
+| 108 | Blur | For Tomorrow - 2012 Remaster | Modern Life Is Rubbish | [Spotify](https://open.spotify.com/track/3UFAFyRvZ4gFORAoI1pFWQ) |
+| 109 | Weezer | Across The Sea | Pinkerton | [Spotify](https://open.spotify.com/track/7JJPh9eOiSr8zYlBjcu2w0) |
+| 110 | Car Seat Headrest | Something Soon | Teens of Style | [Spotify](https://open.spotify.com/track/1L2U62lhBK991jQJ1uecD5) |
+| 111 | Mitski | Francis Forever | Bury Me At Makeout Creek | [Spotify](https://open.spotify.com/track/5411TEB6tlzvuF5A4oyldr) |
+| 112 | Newgrounds Death Rugby | Who The Fuck Is Mark? | Pictures of Your Pets | [Spotify](https://open.spotify.com/track/0M9qiAsGfkVGIAyzKsTNMH) |
+| 113 | Enon | Natural Disasters | High Society | [Spotify](https://open.spotify.com/track/6F3TZeOG2uKDNDbUgoOE3S) |
+| 114 | Sidney Gish | Impostor Syndrome | No Dogs Allowed | [Spotify](https://open.spotify.com/track/3bpGAsjsCIMTz98E7injb2) |
+| 115 | Modern Baseball | Tears Over Beers | Sports | [Spotify](https://open.spotify.com/track/7hPLPHeKbwJrsuDHv4BCTA) |
+| 116 | Okean Elzy | Як ніколи | Той день | [Spotify](https://open.spotify.com/track/7Bz3CO5CyU4GAPke4UNPhc) |
+| 117 | passengerprincess | VENOMOUS | PASSENGERPRINCESS | [Spotify](https://open.spotify.com/track/4rPKifkzrhIYAsl1njwmjd) |
+| 118 | Уляна Дель Рей | 2007 | Третя | [Spotify](https://open.spotify.com/track/5H5HNG8BIjQ0EpV2l5xl2O) |
+| 119 | Blur | Stereotypes - 2012 Remaster | The Great Escape (Special Edition) | [Spotify](https://open.spotify.com/track/0RgeH2P2ujXoHSjD8DT2ss) |
+| 120 | Blur | It Could Be You - 2012 Remaster | The Great Escape (Special Edition) | [Spotify](https://open.spotify.com/track/5rRFwd9u7iU1DQ8HwPM7iQ) |
+| 121 | The Cranberries | Sunday | Everybody Else Is Doing It, So Why Can't We? | [Spotify](https://open.spotify.com/track/4zEvxRDaKDoFlHxK7Hy0wg) |
+| 122 | Modern Baseball | Re-Do | Sports | [Spotify](https://open.spotify.com/track/1fddQyaDzAQGhnSZh7UQIJ) |
+| 123 | Enon | Disposable Parts | High Society | [Spotify](https://open.spotify.com/track/0BBMnTW40A9Q2DkYHwsVin) |
+| 124 | Weezer | Pink Triangle | Pinkerton | [Spotify](https://open.spotify.com/track/6qQGxKyy6LcyZVsWn93lyS) |
+| 125 | Car Seat Headrest | Cute Thing | Twin Fantasy | [Spotify](https://open.spotify.com/track/7AppWYIm98qFOGVMbNHJSB) |
+| 126 | Radiohead | Just | The Bends | [Spotify](https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR) |
+| 127 | Lit | My Own Worst Enemy | A Place In The Sun | [Spotify](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) |
+| 128 | Robin Thicke, T.I., Pharrell Williams | Blurred Lines | Blurred Lines (Deluxe) | [Spotify](https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb) |
+| 129 | The Clash | Spanish Bombs - Remastered | London Calling (Remastered) | [Spotify](https://open.spotify.com/track/6wtmql7FJ7SSLuSw8JD8rX) |
+| 130 | Do Sliz | Але якщо ти... | Але якщо ти... | [Spotify](https://open.spotify.com/track/4ZaoUiWzr60mHanF6FNrlF) |
+| 131 | alex_g_offline | Break | 1234 | [Spotify](https://open.spotify.com/track/4Rsv5fRmgTH88RLp7xN5sz) |
+| 132 | Jackal Queenston | The Gambler | Slop | — |
+| 133 | The Offspring, Redman | Original Prankster | Conspiracy Of One | [Spotify](https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv) |
+| 134 | Blur | You're so Great - 2012 Remaster | Blur (Special Edition) | [Spotify](https://open.spotify.com/track/7x6FZTgWolJs8e2cHfeUbR) |
+| 135 | Billie Eilish | BIRDS OF A FEATHER | HIT ME HARD AND SOFT | [Spotify](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) |
+| 136 | Blur | Sunday Sunday - 2012 Remaster | Modern Life Is Rubbish | [Spotify](https://open.spotify.com/track/127M7vBbwxeCHO6AEQkMNx) |
+| 137 | Blur | The Universal - 2012 Remaster | The Great Escape (Special Edition) | [Spotify](https://open.spotify.com/track/63G27PTar9LZQgKU2BKjx9) |
+| 138 | 川村ゆみ, Lotus Juice | P3 fes | ペルソナ3フェス オリジナル・サウンドトラック | [Spotify](https://open.spotify.com/track/1L4s3u6PeAfnj0BIhQx1RH) |
+| 139 | Super Furry Animals | Something 4 the Weekend | Fuzzy Logic | [Spotify](https://open.spotify.com/track/77waSTIfZfnnrID2SRYp5J) |
+| 140 | Pulp | Disco 2000 | Different Class | [Spotify](https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC) |
+| 141 | Graham Coxon | Freakin' Out | Happiness In Magazines | [Spotify](https://open.spotify.com/track/4AhI7uKOHt0V7V9C4PJ0Pn) |
+| 142 | Weezer, Best Coast | Go Away | Everything Will Be Alright In The End | [Spotify](https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi) |
+| 143 | Weezer | Why Bother? | Pinkerton - Deluxe Edition | [Spotify](https://open.spotify.com/track/4W3uLgQTUl4fXAIdAvFRzK) |
+| 144 | Sabrina Carpenter | Manchild | Man’s Best Friend | [Spotify](https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9) |
+| 145 | Sabrina Carpenter | Juno | Short n' Sweet | [Spotify](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) |
+| 146 | Weezer | The World Has Turned And Left Me Here | Weezer | [Spotify](https://open.spotify.com/track/06isZAG9Bgm4jhPj7V0Rhx) |
+| 147 | Pulp | Common People - Full Length Version | Different Class | [Spotify](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) |
+| 148 | Sabrina Carpenter | Nobody’s Son | Man’s Best Friend | [Spotify](https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH) |
+| 149 | Pulp | Bar Italia | Different Class | [Spotify](https://open.spotify.com/track/3gP3IeMlNNb98geUB7SpPE) |
+| 150 | Mac DeMarco | No Other Heart | Another One | [Spotify](https://open.spotify.com/track/2aaCNg42RA74s0EmHTBqS7) |
+| 151 | Weezer | The Good Life | Pinkerton | [Spotify](https://open.spotify.com/track/5CjwXdq5Z73Va0XCPFG5Aq) |
+| 152 | TV Girl | Hate Yourself | French Exit | [Spotify](https://open.spotify.com/track/7ijyGfG4NxMBobHgvu4lIM) |
+| 153 | PinkPantheress, Zara Larsson | Stateside + Zara Larsson | Fancy Some More? | [Spotify](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) |
+| 154 | Blur | London Loves - 2012 Remaster | Parklife | [Spotify](https://open.spotify.com/track/78tsvl0m7A0F9UjEwv3POL) |
+| 155 | Blur | There's No Other Way - 2012 Remaster | Leisure (Special Edition) | [Spotify](https://open.spotify.com/track/7qk4uPeLpaKhp8lwas1sBb) |
+| 156 | Weezer | Falling For You | Pinkerton | [Spotify](https://open.spotify.com/track/1MnXNW03vkijBz0GHAsHgW) |
+| 157 | Blur | Best Days - 2012 Remaster | The Great Escape (Special Edition) | [Spotify](https://open.spotify.com/track/63Rsi8eMUSu3cF04rgVJLj) |
+| 158 | Sabrina Carpenter | Please Please Please | Short n' Sweet | [Spotify](https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj) |
+| 159 | Pulp | Mis-Shapes | Different Class | [Spotify](https://open.spotify.com/track/7IgHTB9VMPwziPobbBbgfq) |
+| 160 | The Smashing Pumpkins | Tonight, Tonight - Remastered 2012 | Mellon Collie And The Infinite Sadness (Deluxe Edition) | [Spotify](https://open.spotify.com/track/7bu0znpSbTks0O6I98ij0W) |
+| 161 | Pulp | Do You Remember The First Time? | Do You Remember The First Time? EP | [Spotify](https://open.spotify.com/track/6TXHo410Y1fubZ2QtXjNOB) |
+| 162 | Tartak, Світязь | Ні, я не ту кохав | Система нервів | [Spotify](https://open.spotify.com/track/6US12qFQkzA0OUr3um6v8E) |
+| 163 | Motor'Rolla | Не дзвонила, не заходила | …шо кому не ясно? | [Spotify](https://open.spotify.com/track/5OijSLJR5oj5xOJwLqNiXh) |
+| 164 | Sabrina Carpenter | Espresso | Short n' Sweet | [Spotify](https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz) |
+| 165 | Blur | Entertain Me - 2012 Remaster | The Great Escape (Special Edition) | [Spotify](https://open.spotify.com/track/33sv807ONsR1p9UGz1RMQX) |
+| 166 | Blur | Bank Holiday - 2012 Remaster | Parklife | [Spotify](https://open.spotify.com/track/6EU3L1HVLs1adpB3qBhcHS) |
+| 167 | Blur | Badhead - 2012 Remaster | Parklife | [Spotify](https://open.spotify.com/track/11rOwWuMAoucTDo6PQA9ny) |
+| 168 | Blur | On Your Own - 2012 Remaster | Blur (Special Edition) | [Spotify](https://open.spotify.com/track/1ALo4b1PtYjCZ4gX1QA2O6) |
+| 169 | Blur | Globe Alone - 2012 Remaster | The Great Escape (Special Edition) | [Spotify](https://open.spotify.com/track/52Zhh0JG06RgwMGiLOhl7T) |
+| 170 | Pulp | Lipgloss | His N Hers | [Spotify](https://open.spotify.com/track/1h9GNQ3aCkQyMAaM40a5xU) |
+| 171 | Blur | Look Inside America - 2012 Remaster | Blur | [Spotify](https://open.spotify.com/track/698kzeKjlJQkU7JxWtWa9X) |
+| 172 | The La's | There She Goes | The La's (Deluxe Edition) | [Spotify](https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0) |
+| 173 | Oasis | Supersonic - Remastered | Definitely Maybe (Deluxe Edition Remastered) | [Spotify](https://open.spotify.com/track/4jJfa4mO5JjV9Tz2aAxE2M) |
+| 174 | Oasis | Live Forever - Remastered | Definitely Maybe (Deluxe Edition Remastered) | [Spotify](https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW) |
+| 175 | Suede | Beautiful Ones | Coming Up - 20th Anniversary Edition (Audio Version) | [Spotify](https://open.spotify.com/track/5yWVfYEeQRPuFtytvkOgU1) |
+| 176 | PinkPantheress | Girl Like Me | Fancy That | [Spotify](https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB) |
+| 177 | Blur | Star Shaped - 2012 Remaster | Modern Life Is Rubbish | [Spotify](https://open.spotify.com/track/10eUvYOrxYT4nO31Sa5dYt) |
+| 178 | Blur | Colin Zeal - 2012 Remaster | Modern Life Is Rubbish | [Spotify](https://open.spotify.com/track/7dU0naThnlYiA3EaQlMFhg) |
+| 179 | Blur | To the End - 2012 Remaster | Parklife (Special Edition) | [Spotify](https://open.spotify.com/track/7u8yddev0YnNFGkZoP8X2t) |
+| 180 | Blur | Clover Over Dover - 2012 Remaster | Parklife (Special Edition) | [Spotify](https://open.spotify.com/track/6ErEhafrAEQArcTZgnRpTJ) |
+| 181 | Blur | Tracy Jacks - 2012 Remaster | Parklife (Special Edition) | [Spotify](https://open.spotify.com/track/6xjks1MbmXNPRewKoeyklJ) |
+| 182 | Blur | This Is a Low - 2012 Remaster | Parklife (Special Edition) | [Spotify](https://open.spotify.com/track/1Ce0LuCifEoGTnf9MbXQbo) |
+| 183 | UWANOSORA | Spin the Marvin | Night Fog | [Spotify](https://open.spotify.com/track/6vJKxqwvvft7LIBfLOh7in) |
+| 184 | ABBA | Waterloo | Waterloo | [Spotify](https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk) |
+| 185 | Blur | End of a Century - 2012 Remaster | Parklife | [Spotify](https://open.spotify.com/track/4em17FyyrOE8Miw8rJwJhn) |
+| 186 | Graham Coxon | Standing on My Own Again | Love Travels At Illegal Speeds | [Spotify](https://open.spotify.com/track/0lp59dehN94xfOWJGS2p74) |
+| 187 | Suede | Trash | Coming Up - 20th Anniversary Edition (Audio Version) | [Spotify](https://open.spotify.com/track/5sVPOuJJAmidyxU8LjJBVu) |
+| 188 | Pulp | Underwear | Different Class | [Spotify](https://open.spotify.com/track/5pcDlqgygjWQ75QYLM7mdL) |
+| 189 | Supergrass | I'd Like to Know - 2015 Remaster | I Should Coco (20th Anniversary Collector's Edition) | [Spotify](https://open.spotify.com/track/66w6LOh9fNPYmFgMjWXNrP) |
+| 190 | Supergrass | Caught by the Fuzz - 2015 Remaster | I Should Coco (20th Anniversary Collector's Edition) | [Spotify](https://open.spotify.com/track/3TtcfvXbYhS75XBOp33wST) |
+| 191 | Pulp | I'm A Man | This Is Hardcore (Deluxe Edition) | [Spotify](https://open.spotify.com/track/4emJOMwpD3ygw7GQ2KnzSc) |
+| 192 | Suede | Animal Nitrate | Suede (25th Anniversary Edition) | [Spotify](https://open.spotify.com/track/3Cf6hpnrWfhGA59IK4E8F8) |
+| 193 | Blur | Coffee & TV | 13 | [Spotify](https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw) |
+| 194 | ABBA | Dancing Queen | Arrival | [Spotify](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) |
+| 195 | Morrissey | First of the Gang to Die | You Are the Quarry | [Spotify](https://open.spotify.com/track/56rcBuVd1mpTeqP9cj3szc) |
+| 196 | Shed Seven | She Left Me On Friday | Let It Ride | [Spotify](https://open.spotify.com/track/5Yr6PtlymPSLry6Cjw6udV) |
+| 197 | Supergrass | Alright - 2015 Remaster | I Should Coco (20th Anniversary Collector's Edition) | [Spotify](https://open.spotify.com/track/05ajrG3EAcIe3j7NuqRV9B) |
+| 198 | Supergrass | Moving | Supergrass | [Spotify](https://open.spotify.com/track/5lkCsbgamJJF2APdUVf27A) |
+| 199 | Blur | Young and Lovely - 2012 Remaster | Modern Life Is Rubbish (Special Edition) | [Spotify](https://open.spotify.com/track/73pvCD951PVyLmU1obAJZi) |
+| 200 | Pulp | Monday Morning | Different Class | [Spotify](https://open.spotify.com/track/2nBPqKLFQUeBQhs03cKGU3) |
+| 201 | Pulp | Something Changed | Different Class | [Spotify](https://open.spotify.com/track/05FgZdqxXg40X0WG8MmWMA) |
+| 202 | Blur | Popscene - 2012 Remaster | Modern Life Is Rubbish (Special Edition) | [Spotify](https://open.spotify.com/track/3ZYYnEBVTsMutqF8zDF5Vw) |
+| 203 | Pulp | Razzmatazz | Hits | [Spotify](https://open.spotify.com/track/2FG2T9q4chMeIxmy7O7jyj) |
+| 204 | Mitski | Nobody | Be the Cowboy | [Spotify](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) |
+| 205 | passengerprincess | HEADLESS LOUNGE | HEADLESS LOUNGE | [Spotify](https://open.spotify.com/track/22mZmxadaPv3MmCT2xRGNq) |
+| 206 | Sixpence None The Richer | Kiss Me | Sixpence None the Richer: Greatest Hits | [Spotify](https://open.spotify.com/track/7IDezLEJkTbVchK7swLb5y) |
+| 207 | passengerprincess | AIRPLANE DRAGONS | AIRPLANE DRAGONS | [Spotify](https://open.spotify.com/track/7bN4ufQWjbzjn5VzZWHvRA) |
+| 208 | David Bowie | Space Oddity - 2015 Remaster | David Bowie (aka Space Oddity) [2015 Remaster] | [Spotify](https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG) |
+| 209 | Supergrass | Mansize Rooster - 2015 Remaster | I Should Coco (20th Anniversary Collector's Edition) | [Spotify](https://open.spotify.com/track/0kd2vjj5dGOjC7jQjRy5Cw) |
+| 210 | Sabrina Carpenter | Busy Woman | Short n' Sweet (Deluxe) | [Spotify](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) |
+| 211 | passengerprincess | EVERLASTING | EVERLASTING | [Spotify](https://open.spotify.com/track/0nmhfTCZXU2cBJR53b6QZm) |
+| 212 | Car Seat Headrest | Drunk Drivers/Killer Whales | Teens Of Denial | [Spotify](https://open.spotify.com/track/75hwtYcghca6YKW4i6C6fP) |
+| 213 | Car Seat Headrest | Beach Life-In-Death | Twin Fantasy | [Spotify](https://open.spotify.com/track/27aQH9DIJ3ozx3dC91Hhjg) |
+| 214 | Car Seat Headrest | 1937 State Park | Teens Of Denial | [Spotify](https://open.spotify.com/track/1R2S07B6YqebXf3SbDK0dR) |
+| 215 | Car Seat Headrest | Deadlines (Hostile) | Making a Door Less Open | [Spotify](https://open.spotify.com/track/0eyQSNrnZ7vKs1q0bQlN8O) |
+| 216 | Car Seat Headrest | The Drum | Teens of Style | [Spotify](https://open.spotify.com/track/4VPc1O6s4YnxTmdLRaApE9) |
+| 217 | The Cure | 10:15 Saturday Night | Boys Don't Cry | [Spotify](https://open.spotify.com/track/5QWmipHgzADlkGmLqJr3FY) |
+| 218 | Pulp | Sorted For E's & Wizz | Different Class | [Spotify](https://open.spotify.com/track/6OiWR0dBoVnd0NpD0kCijF) |
+| 219 | Car Seat Headrest | Unforgiving Girl (She's Not An) | Teens Of Denial | [Spotify](https://open.spotify.com/track/1bNFcAne3QoFy6Yf5wddf9) |
+| 220 | Car Seat Headrest | Fill In The Blank | Teens Of Denial | [Spotify](https://open.spotify.com/track/0SVvyfRMFMRJzc0L2odX20) |
+| 221 | Car Seat Headrest | Equals | The Scholars | [Spotify](https://open.spotify.com/track/74nPzST89hVhtZMJ0UNJeW) |
+| 222 | Car Seat Headrest | Oh! Starving | Teens of Style | [Spotify](https://open.spotify.com/track/1wkVU53qCZS2EfDdB15w1c) |
+| 223 | Geese | Au Pays du Cocaine | Getting Killed | [Spotify](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) |
+| 224 | Radiohead | Fake Plastic Trees | The Bends | [Spotify](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) |
+| 225 | The Beatles | Octopus's Garden - Remastered 2009 | Abbey Road (Remastered 2009) | [Spotify](https://open.spotify.com/track/0suLngfo7rJoetk7Ub6N8l) |
+| 226 | Blur | Bang - 2012 Remaster | Leisure (Special Edition) | [Spotify](https://open.spotify.com/track/77UAB5hIOFj1yx2CIvIkdZ) |
+| 227 | Weezer | Undone - The Sweater Song | Weezer | [Spotify](https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV) |
+| 228 | Pulp | Help The Aged | This Is Hardcore (Deluxe Edition) | [Spotify](https://open.spotify.com/track/2KmI1IcNSOhfUzLD357i3Z) |
+| 229 | Nirvana | Breed | Nevermind (Remastered) | [Spotify](https://open.spotify.com/track/3PyPpABRA2bTGhNwPd66H6) |
