@@ -1,8 +1,8 @@
 # Playlist Snapshot
 
-> Last synced: `2026-11-21 16:06 UTC`
+> Last synced: `2026-11-28 02:39 UTC`
 
-## sxdcrt (224 tracks)
+## sxdcrt (225 tracks)
 
 | # | Artist | Track | Album | Link |
 |---:|---|---|---|---|
@@ -230,3 +230,4 @@
 | 222 | Weezer | Undone - The Sweater Song | Weezer | [Spotify](https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV) |
 | 223 | Pulp | Help The Aged | This Is Hardcore (Deluxe Edition) | [Spotify](https://open.spotify.com/track/2KmI1IcNSOhfUzLD357i3Z) |
 | 224 | Nirvana | Breed | Nevermind (Remastered) | [Spotify](https://open.spotify.com/track/3PyPpABRA2bTGhNwPd66H6) |
+| 225 | Pulp | P.T.A. - Parent Teacher Association | Different Class / Deluxe Edition | [Spotify](https://open.spotify.com/track/57YcRRGmZ46dzumd4hUPYQ) |
